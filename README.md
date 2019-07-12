@@ -1,16 +1,21 @@
-# flutter_first_app
+# EasySell
 
-A new Flutter project.
+Sell things online - an advanced level app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# What this app have ?
+1. Working Auth screen
+2. Drawer
+3. Add Product to firebase database
+4. Update Product to firebase database
+5. Remove Product to firebase database
+6. Map to fetch locaion
+7. Advanced features of flutter 
 
-A few resources to get you started if this is your first Flutter project:
+Feel free to use.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
