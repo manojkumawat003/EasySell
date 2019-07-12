@@ -16,6 +16,10 @@ Feel free to use.
 
 Take a tour to the app
 
+https://drive.google.com/open?id=1eG4bwwdzziuFPa90l3kJ27UvK2W8Vssj
+
+https://drive.google.com/open?id=1FXzqny208sJS7p-h_DaiOR0vAnb4-LbJ
+
 
 
 
