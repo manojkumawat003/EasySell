@@ -14,6 +14,8 @@ Sell things online - an advanced level app.
 
 Feel free to use.
 
+Take a tour to the app
+
 
 
 
